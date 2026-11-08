@@ -1,0 +1,14 @@
+# Notas internas (contém ID da planilha)
+CONTEXTO_PARA_CLAUDE.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
